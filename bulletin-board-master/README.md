@@ -10,4 +10,5 @@
 -docker-compose build
 
 -docker-compose up -d
+
 -в браузере http://127.0.0.1
